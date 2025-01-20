@@ -1,3 +1,3 @@
 # NumericalFunctionOptimization
 
-## Available on 20.01.2025
+## Available on 04.02.2025
